@@ -1,6 +1,6 @@
 # 3D World Map Visualization (React) ✨🌍🌓
 
-## Try live demo - [Demo](https://3d-globe.vercel.app/)
+## Try live demo - [Demo](https://3-d-globe-seven.vercel.app/)
 
 A visually stunning and interactive 3D world map application built with React, Vite, and Tailwind CSS. Explore countries, view information on click, and toggle between dark and light themes. Developed as part of the #30DaysOfVibeCoding challenge with AI assistance.
 
